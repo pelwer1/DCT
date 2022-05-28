@@ -21,7 +21,7 @@
  \_/ |_| |_ (/_ |    /--\ |  _|_    | | (_| |_)
                                             |
 */
-;
+
 on('ready', () => {
     const version = '1.1.0';  // script version
     log('-=> DealCardsTo v' + version + ' <=-');
