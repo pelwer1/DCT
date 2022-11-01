@@ -23,7 +23,7 @@
 */
 
 on('ready', () => {
-    const version = '1.1.0';  // script version
+    const version = '1.1.1';  // script version
     log('-=> DealCardsTo v' + version + ' <=-');
 
     /*
@@ -297,3 +297,7 @@ on('ready', () => {
           } // end if api ...
       }); // end on message ...
 }); // end on ready ...
+
+;
+
+
